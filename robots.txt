@@ -1,0 +1,3 @@
+User-agent: *
+Allow: /
+Sitemap: https://jhonataprof.github.io/landing-guia-turistico/sitemap.xml
